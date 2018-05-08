@@ -1,13 +1,63 @@
 .jumbotron {
   margin: 10px;
-  background-color: skyblue;
+  background-color: coral;
 }
 
 .jumbotron h1 {
   text-align: center;
   color: blue;
+  font-family: sans-serif;
 }
 
 .jumbotron p {
   color: blue;
+  font-family:serif;
+  font-size: 20px;
+}
+
+.list {
+  color: blue;
+  font-family: serif;
+  font-size: 20px;
+}
+
+.well {
+  background-color: coral;
+}
+
+
+.well p {
+  font-size: 20px;
+  font-family: serif;
+  color: blue;
+}
+
+.panel {
+  padding: 10px;
+}
+
+.panel h2 {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.panel p {
+  font-family: serif;
+  font-size: 20px;
+  color: blue;
+}
+
+h3 {
+  color: red;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-family: serif;
+  color: blue;
+}
+
+body {
+ background-color: 	#ffcccc;
 }
