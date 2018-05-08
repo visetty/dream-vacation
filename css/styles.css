@@ -1,0 +1,13 @@
+.jumbotron {
+  margin: 10px;
+  background-color: skyblue;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  color: blue;
+}
+
+.jumbotron p {
+  color: blue;
+}
