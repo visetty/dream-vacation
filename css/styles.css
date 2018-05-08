@@ -1,16 +1,17 @@
 .jumbotron {
   margin: 10px;
-  background-color: coral;
+  background-image: url(../images/vineyard-italy-wine.jpg);
+  background-image-position: fixed;
 }
 
 .jumbotron h1 {
   text-align: center;
-  color: blue;
+  color: white;
   font-family: sans-serif;
 }
 
 .jumbotron p {
-  color: blue;
+  color: white;
   font-family:serif;
   font-size: 20px;
 }
