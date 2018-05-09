@@ -1,7 +1,8 @@
 .jumbotron {
   margin: 10px;
-  background-image: url(../images/vineyard-italy-wine.jpg);
-  background-image-position: fixed;
+  background-image: url("../images/vineyard-italy-wine.jpg");
+  background-position: fixed;
+  margin-bottom: 8px;
 }
 
 .jumbotron h1 {
