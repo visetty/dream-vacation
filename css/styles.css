@@ -63,3 +63,10 @@ p {
 body {
  background-color: 	#ffcccc;
 }
+
+.footer {
+  background-color: coral;
+  padding: 3px;
+  text-align: justify;
+  margin: 3px;
+}
